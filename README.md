@@ -1,3 +1,13 @@
+<h1>codiga code quality</h1>
+ 
+ ![Code grade](https://api.codiga.io/project/31237/score/svg)
+ 
+ ![Code grade](https://api.codiga.io/project/31237/status/svg)
+ 
+<h1>codacy code quality
+  
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/24929737eafa4c20808bb1905bd6c34e)](https://www.codacy.com/gh/ChandraSekharKarri/M1_Movie-Ticket-Booking-System_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChandraSekharKarri/M1_Movie-Ticket-Booking-System_Utility&amp;utm_campaign=Badge_Grade)
+
 # M1_Movie-Ticket-Booking-System_Utility
 Online Movie Ticket Booking Project in C
 
