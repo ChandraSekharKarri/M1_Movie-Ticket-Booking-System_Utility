@@ -1,9 +1,9 @@
 # M1_Movie-Ticket-Booking-System_Utility
 Online Movie Ticket Booking Project in C
 
-Project developed by <b>Chandra Sekhar</b>
 
-<li>Video Demo : https://youtu.be/1T6GDrkf6Y4
+The aim of the project is to provide information about the MOVIE TICKET BOOKING SYSTEM to a customer to book the tickets. The project has been developed to carry out the process easily and quickly. The system enables the user to Book tickets, Cancel tickets, View all booking records. The main goal of our project is to provide various types of customer facilities and provide good customer service It should fulfill almost all the process requirements of booking a ticket.
+
 
 <li>Project Description</li>
 Online Movie ticket booking project / program in c language. 
